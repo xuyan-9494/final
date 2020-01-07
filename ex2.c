@@ -1,5 +1,5 @@
 #include <stdio.h>
-#define MAX 101
+#define MAX 51
 
 void reverse(int *input, int num) {
 	if (num > 1) {
